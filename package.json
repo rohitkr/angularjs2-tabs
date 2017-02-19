@@ -1,6 +1,6 @@
 {
   "name": "angularjs2-tabs",
-  "version": "0.1.0",
+  "version": "0.0.1-beta.1",
   "scripts": {
     "build": "ngc -p tsconfig.json",
     "lint": "tslint src/**/*.ts",
