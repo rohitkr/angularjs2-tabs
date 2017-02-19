@@ -82,9 +82,6 @@ export class TabsComponent implements AfterContentInit {
         if (activeTabs.length === 0) {
             this.selectTab(this.tabs.first);
         }
-
-        console.log(this.classNames);
-
     }
 
     constructor() {
